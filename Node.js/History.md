@@ -2,9 +2,9 @@
 
 ## What is Node.js?
 
-- **Node.js** is a free, open-source tool that lets you use **JavaScript** to build programs that can run on a server, not just in a web browser.  
+- **Node.js** is a free, open-source runtime Environment that lets you use **JavaScript** to build programs that can run on a server, not just in a web browser.  
 - It works on many systems, including Windows, Linux, macOS, and Unix.  
-- It uses Google’s **V8 engine** (the part of Google Chrome that runs JavaScript), making JavaScript fast and powerful.  
+- It uses Google’s **V8 engine** , making JavaScript fast and powerful.  
 - Node.js is designed to handle many tasks at the same time without waiting for one task to finish. This is called **non-blocking** or **asynchronous**.  
 - The **OpenJS Foundation** manages and supports the development of Node.js.  
 
